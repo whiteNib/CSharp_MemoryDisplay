@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\obj\Debug\MemoryDisplay.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\obj\Debug\MemoryDisplay.Form1.resources
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\obj\Debug\MemoryDisplay.Properties.Resources.resources
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\obj\Debug\MemoryDisplay.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\obj\Debug\MemoryDisplay.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\bin\Debug\MemoryDisplay.exe.config
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\bin\Debug\MemoryDisplay.exe
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\bin\Debug\MemoryDisplay.pdb
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\obj\Debug\MemoryDisplay.exe
+C:\Users\USER\source\repos\MemoryDisplay\MemoryDisplay\obj\Debug\MemoryDisplay.pdb
